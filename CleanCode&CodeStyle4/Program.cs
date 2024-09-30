@@ -1,4 +1,4 @@
 ﻿class Weapon
 {
-    public void Shoot() { }
+    public void Shoot() { } 
 }
